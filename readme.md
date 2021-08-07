@@ -20,7 +20,7 @@ I have a discord for discussing my mods here: [Invite link](https://discordapp.c
  - [Companion drones](https://github.com/Klonan/Companion_Drones) - Early game companions to help build and fight.
  - [Repair turret](https://github.com/Klonan/Repair_Turret) - A early turret that repairs any damage in its range.
  - [KS Power](https://github.com/Klonan/KS_Power) - One of my earliest mods, adds more power production alternatives.
- - [MIRV}(https://github.com/Klonan/MIRV) - Send nukes to orbit, what happens when they come back down will surprise you.
+ - [MIRV](https://github.com/Klonan/MIRV) - Send nukes to orbit, what happens when they come back down will surprise you.
 
 -------------------------------------------------------------
 
